@@ -1,0 +1,52 @@
+body {
+    background-color: black;
+    width: 90%;
+    height: 100%;
+}
+
+.q11 {
+    color: rgba(12, 61, 219, 0.74);
+    margin-left: 50%;
+    margin-top: 10%;
+    cursor: pointer;
+}
+
+.q11:hover {
+    color: cadetblue;
+    transform: scale(1.2);
+    transition: 3s;
+}
+
+.h8 {
+    margin-left: 48%;
+    border-radius: 5px;
+    cursor: pointer;
+    width: 200px;
+    height: 30px;
+    color: black;
+}
+
+.n88 {
+    color: rgb(255, 255, 255);
+    margin-left: 48%;
+    gap: 5px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.g66 {
+    margin-left: 50%;
+    background-color: cyan;
+    height: 40px;
+    width: 130px;
+    cursor: pointer;
+    font-size: 20px;
+    color: rgb(255, 251, 0);
+}
+
+.g66:hover {
+    background-color: yellow;
+    transform: scale(1.3);
+    transition:3s;
+    color: black;
+}
